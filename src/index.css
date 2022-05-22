@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#card-background {
+  background-color: aqua;
+}
+
+#root {
+  background-color: rgba(0, 0, 0, 0.863);
+}
+
+#delete-room-div {
+  background-color: aqua;
+}
+
+html {
+  background-color: black;
 }
